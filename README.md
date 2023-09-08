@@ -8,10 +8,13 @@ Quantization is a process used in machine learning and deep learning to reduce t
 *The repository itself does not contain the codes for quantization techniques and conversion to TFLite. Only the TFLite model itself is uploaded here.*
 *The new APK version has some additional features that were not present in the old code.*
 
-**Weight and Activation Quantization
+Weight and Activation Quantization
+
 Dynamic Range Quantization
+
 Fixed-Point Quantization and Integer-Only Quantization
-Channel-Wise Quantization** are some of the techniques 
+
+Channel-Wise Quantization  are some of the techniques 
 
 **Features**
 
@@ -23,7 +26,10 @@ Integration with Android Studio for easy development and deployment.
 
 To get the latest version of **"Detecto"**, follow these steps:
 
-*Click on this link: https://drive.google.com/drive/folders/1FxPzQSIiwWteiwuJJtH-ukgH9HBTJudH?usp=sharing
-*Download the new application package (APK) file.
-*Install the APK on your Android device.
-*Enjoy using "Detecto" for object detection on your Android device!
+Click on this link: https://drive.google.com/drive/folders/1FxPzQSIiwWteiwuJJtH-ukgH9HBTJudH?usp=sharing
+
+Download the new application package (APK) file.
+
+Install the APK on your Android device.
+
+Enjoy using "Detecto" for object detection on your Android device!
